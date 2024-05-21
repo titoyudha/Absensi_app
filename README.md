@@ -19,8 +19,7 @@ Features
 
 ```sh
 # clone terlebih dahulu lewat cli (cmd, bash, atau yg lain)
-git clone https://github.com/muhammadpauzi/absensi-app.git
-
+https://github.com/titoyudha/Absensi_app.git
 # masuk ke foldernya
 cd absensi-app
 
