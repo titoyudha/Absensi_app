@@ -48,7 +48,7 @@ php artisan serve
 -   Clone this repository
 
 ```sh
-git clone https://github.com/muhammadpauzi/absensi-app.git
+https://github.com/titoyudha/Absensi_app.git
 # make sure you are in the folder
 cd absensi-app
 ```
