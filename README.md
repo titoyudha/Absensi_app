@@ -24,7 +24,9 @@ https://github.com/titoyudha/Absensi_app.git
 cd absensi-app
 
 # install semua package
-composer install
+    composer update
+    composer install
+    npm install
 
 # pilih salah satu
 # 1. windows
